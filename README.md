@@ -4,7 +4,7 @@
 
 ## 下载
 
-无需安装 Python，也无需配置 OCR。前往 [Releases](https://github.com/Bringt-C/activity-discount-helper/releases/latest) 下载 `活动降幅助手.exe`，双击即可使用。
+无需安装 Python，也无需配置 OCR。前往 [Releases](https://github.com/Bringt-C/activity-discount-helper/releases/latest) 下载 `activity-discount-helper.exe`，双击即可使用。
 
 > 支持 Windows 10/11 64 位系统。首次打开时，系统可能显示“未知发布者”，选择“更多信息”→“仍要运行”即可。
 
